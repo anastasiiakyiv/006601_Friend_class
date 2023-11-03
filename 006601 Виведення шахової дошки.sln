@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006601 Виведення шахової дошки", "006601 Виведення шахової дошки.vcxproj", "{84FD1B45-9079-47DD-A01A-9548ED2DC585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FD1B45-9079-47DD-A01A-9548ED2DC585}.Debug|x64.ActiveCfg = Debug|x64
+		{84FD1B45-9079-47DD-A01A-9548ED2DC585}.Debug|x64.Build.0 = Debug|x64
+		{84FD1B45-9079-47DD-A01A-9548ED2DC585}.Debug|x86.ActiveCfg = Debug|Win32
+		{84FD1B45-9079-47DD-A01A-9548ED2DC585}.Debug|x86.Build.0 = Debug|Win32
+		{84FD1B45-9079-47DD-A01A-9548ED2DC585}.Release|x64.ActiveCfg = Release|x64
+		{84FD1B45-9079-47DD-A01A-9548ED2DC585}.Release|x64.Build.0 = Release|x64
+		{84FD1B45-9079-47DD-A01A-9548ED2DC585}.Release|x86.ActiveCfg = Release|Win32
+		{84FD1B45-9079-47DD-A01A-9548ED2DC585}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3249A24C-98E2-4945-839F-5FA4A337F752}
+	EndGlobalSection
+EndGlobal
